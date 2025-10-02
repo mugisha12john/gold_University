@@ -1,13 +1,44 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="./src/output.css" rel="stylesheet">
-</head>
-<body>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./src/output.css" rel="stylesheet" />
+    <title>Gold University</title>
+  </head>
+  <body>
+    <header class="grid grid-cols-2">
+      <div class="">
+        <img class="mt-10 p-5" src="/image/logo.svg" alt="logo" />
+      </div>
+
+      <div>
+        <img
+          class="ml-auto"
+          src="/image/shape-nav-bar-16px.svg"
+          alt="shape-nav-bar-16px"
+        />
+
+        <nav class="mt-5">
+          <ul
+            class="flex justify-around space-x-4 mr-4 text-lg  font-bold text-[#37424a]"
+          >
+            <li>Study</li>
+            <li>Course finder</li>
+            <li>International</li>
+            <li class="flex items-center gap-2">
+              More
+              <img
+                src="/image/icon-chevron-down-333.svg"
+                alt="icon-chevron-down-333"
+              />
+            </li>
+            <li>
+              <img src="/image/search-mag-grey.svg" alt="search-mag-grey" />
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+  </body>
 </html>

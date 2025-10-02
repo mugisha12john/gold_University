@@ -1,0 +1,14 @@
+<svg style="display:none" class="hovered-image" width="51" height="52" viewBox="0 0 51 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <g clip-path="url(#clip0_355_270)">
+          <path d="M40.9159 1.75024V37.5779H10.4527L1.75391 43.0037V1.75024H40.9159Z" stroke="white" stroke-width="3"></path>
+          <path d="M43.4242 16.9998H50V48.9998L43.1052 44.7874H19V39.9163" stroke="white" stroke-width="3"></path>
+          <path d="M13.0132 18.7277H14.3987V20.1104H13.0132V18.7277Z" stroke="white" stroke-width="3"></path>
+          <path d="M21.3438 18.7277H22.7292V20.1104H21.3438V18.7277Z" stroke="white" stroke-width="3"></path>
+          <path d="M29.6567 18.7277H31.0422V20.1104H29.6567V18.7277Z" stroke="white" stroke-width="3"></path>
+          </g>
+          <defs>
+          <clipPath id="clip0_355_270">
+          <rect width="51" height="52" fill="white"></rect>
+          </clipPath>
+          </defs>
+          </svg>
